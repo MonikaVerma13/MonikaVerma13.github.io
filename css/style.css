@@ -90,7 +90,7 @@ p {
   font-size: 16px;
   font-weight: 300;
   line-height: 28px;
-  color: #7A838B;
+  color: #cfd2d6;
   margin-bottom: 13px;
   font-family: "Roboto", sans-serif;
 }
@@ -2579,6 +2579,14 @@ h3 {
   font-size: 70px;
   color: #fff;
   font-weight: 400;
+  margin-bottom: 0;
+  text-transform: capitalize;
+  font-family: "Alata", sans-serif;
+}
+.smallheading h3 {
+  font-size: 24px;
+  color: #fff;
+  font-weight: 500;
   margin-bottom: 0;
   text-transform: capitalize;
   font-family: "Alata", sans-serif;

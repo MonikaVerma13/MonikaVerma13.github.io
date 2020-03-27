@@ -2127,7 +2127,9 @@ h3 {
 @media (min-width: 1200px) and (max-width: 1500px) {
   /* line 28, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_gallery.scss */
   .portfolio_area .single_gallery {
-    width: 33.33333%;
+   margin-left: 0.5%;
+    margin-top: 0.5%;
+    width: 31.33333%;
   }
 }
 

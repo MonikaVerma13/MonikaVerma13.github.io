@@ -2127,9 +2127,9 @@ h3 {
 @media (min-width: 1200px) and (max-width: 1500px) {
   /* line 28, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_gallery.scss */
   .portfolio_area .single_gallery {
-   margin-left: 0.5%;
+    margin-left: .5%;
     margin-top: 0.5%;
-    width: 31.33333%;
+    width: 32.63333%;
   }
 }
 
@@ -2171,27 +2171,34 @@ h3 {
   /* line 64, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_gallery.scss */
   .portfolio_area .single_gallery.small_width {
     width: 100%;
+     margin-bottom: 1%;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 64, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_gallery.scss */
   .portfolio_area .single_gallery.small_width {
-    width: 50%;
+    width: 49%;
+    margin-left: 0.5%;
+    margin-bottom: 0.5%;
   }
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 64, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_gallery.scss */
   .portfolio_area .single_gallery.small_width {
-    width: 50%;
+    width: 49%;
+    margin-left: 0.5%;
+    margin-bottom: 0.5%;
   }
 }
 
 @media (min-width: 1200px) and (max-width: 1500px) {
   /* line 64, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_gallery.scss */
   .portfolio_area .single_gallery.small_width {
-    width: 33.33333%;
+   margin-left: .5%;
+    margin-top: 0.5%;
+    width: 32.63333%;
   }
 }
 
